@@ -70,7 +70,3 @@ pip install langchain faiss-cpu openai python-dotenv
 Created by **Anurag Tripathi**
 
 ---
-
-## 📄 License
-
-This project is open-source and free to use under the MIT License.
